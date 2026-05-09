@@ -8,7 +8,7 @@
   "server": {
     "ip": "maxtaku.aternos.me",
     "port": 14227,
-    "version": "26.13.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
